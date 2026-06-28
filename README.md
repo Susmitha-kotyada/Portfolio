@@ -1,1 +1,3 @@
 Have a look into my personal portfolio..
+  which shows my technical skills,projects and recieved certificates.
+    Any queries , contact me using details mentioned in it...
